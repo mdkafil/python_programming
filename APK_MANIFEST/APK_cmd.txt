@@ -1,0 +1,7 @@
+apktool d C:\Users\mdkafiluddin\Desktop\Research\[1]DATASET_v1\Category\COMMUNICATION\Experiment_2\All_APK\com.android.chrome-2125114.apk -o C:\Users\mdkafiluddin\Desktop\Research\[1]DATASET_v1\Category\COMMUNICATION\Experiment_2\All_APK\abc
+
+apktool d -v C:\Users\mdkafiluddin\Desktop\Research\[1]DATASET_v1\Category\COMMUNICATION\Experiment_2\All_APK\com.android.chrome-2125114.apk
+
+apktool -v C:\Users\mdkafiluddin\Desktop\Research\[1]DATASET_v1\Category\COMMUNICATION\Experiment_2\All_APK\com.android.chrome-2125114.apk
+
+apktool -advance
